@@ -19,7 +19,7 @@
     "processes": 20,
     "batch_size": 7000,
     "memory_capacity": 50000,
-    "gamma": 0.9,
+    "gamma": 0.95,
     "value_iteration_epochs": 15,
     "regression_epochs": 5000,
     "loss_function": "l2"
