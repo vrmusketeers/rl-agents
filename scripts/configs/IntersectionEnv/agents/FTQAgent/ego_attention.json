@@ -17,7 +17,7 @@
         "attention_layer": {
             "type": "EgoAttention",
             "feature_size": 32,
-            "heads": 1
+            "heads": 2
         },
         "output_layer": {
             "type": "MultiLayerPerceptron",
